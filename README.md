@@ -1,5 +1,5 @@
 # 💫 About Me:
-An anomaly in the system. 17 years of pure focus on low-level engineering, core game loops, and heavy optimization. Operating under the moniker starbag. Driven by cold logic, spatial mechanics, and the raw power of classic hard rock. If it is not automated, it does not exist. If it doesn't blast Guns N' Roses, it doesn't run. Re-wired for pure efficiency on the Colemak layout, pushing triple-digit speeds on Monkeytype. Currently dropping into Apex Legends. Welcome to the jungle.
+-
 
 
 ## 🌐 Socials:
