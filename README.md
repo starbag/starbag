@@ -1,21 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9370DB&center=true&vCenter=true&width=800&height=50&lines=THE+REALM+OF+STARBAAG+%E2%80%94+WHERE+DESTINY+IS+FORGED;ARCHITECT+OF+CODE+%26+COGNITIVE+REALMS;STEP+FORTH+AND+WITNESS+THE+AWAKENING" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <em>✨ "In this sea of souls, one must possess the vision to reach for the stars. Step forth, wanderer, and witness the birth of a grand destiny." ✨</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=starbag&label=Souls%20Entered&color=9370DB&style=for-the-badge&logo=ghost" alt="starbag views" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506587ee.gif" width="100">
-</p>
-
----
-
 ## 🔮 Arcana of Craftsmanship (Languages & Tools)
 
 <p align="center">
